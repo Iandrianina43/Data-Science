@@ -1,5 +1,6 @@
 **Data-Science**
-Description Ce dépôt contient des ressources et des projets liés à la Data Science, 
+
+Ce dépôt contient des ressources et des projets liés à la Data Science, 
 axés sur la collecte de données, l'ingénierie des caractéristiques, et la visualisation. 
 Les projets sont réalisés dans le cadre de ma deuxième année d'études (Année : L2). 
 
